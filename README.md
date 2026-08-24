@@ -1,5 +1,6 @@
 # URL Shortner Frontend
 
+#Currently under construction.
 React, TypeScript, Vite, and Tailwind CSS frontend for the Fastify URL Shortner API.
 
 The UI checks API health, creates short URLs, copies generated links, and opens short links.
